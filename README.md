@@ -1,8 +1,5 @@
 # **C++ > Java**
 
 ```
-
-jhgj
-nkljljkh
-kj
+void *ptr = &a;
 ```
